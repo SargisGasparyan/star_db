@@ -1,0 +1,15 @@
+.person-details{
+    position: relative;
+}
+.person-image{
+width: 48%;
+height: 30%;
+padding: 1.25rem;
+}
+.card-body{
+width: 50%;
+height: 25%;
+position: absolute;
+top: 0;
+right: 0;
+}
